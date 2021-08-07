@@ -1,0 +1,9 @@
+C:\Users\Nikola Vasic\source\repos\ServerSitePaging\ServerSitePaging.Data\bin\Debug\netstandard2.0\ServerSitePaging.Data.deps.json
+C:\Users\Nikola Vasic\source\repos\ServerSitePaging\ServerSitePaging.Data\bin\Debug\netstandard2.0\ServerSitePaging.Data.dll
+C:\Users\Nikola Vasic\source\repos\ServerSitePaging\ServerSitePaging.Data\bin\Debug\netstandard2.0\ServerSitePaging.Data.pdb
+C:\Users\Nikola Vasic\source\repos\ServerSitePaging\ServerSitePaging.Data\obj\Debug\netstandard2.0\ServerSitePaging.Data.csprojAssemblyReference.cache
+C:\Users\Nikola Vasic\source\repos\ServerSitePaging\ServerSitePaging.Data\obj\Debug\netstandard2.0\ServerSitePaging.Data.AssemblyInfoInputs.cache
+C:\Users\Nikola Vasic\source\repos\ServerSitePaging\ServerSitePaging.Data\obj\Debug\netstandard2.0\ServerSitePaging.Data.AssemblyInfo.cs
+C:\Users\Nikola Vasic\source\repos\ServerSitePaging\ServerSitePaging.Data\obj\Debug\netstandard2.0\ServerSitePaging.Data.csproj.CoreCompileInputs.cache
+C:\Users\Nikola Vasic\source\repos\ServerSitePaging\ServerSitePaging.Data\obj\Debug\netstandard2.0\ServerSitePaging.Data.dll
+C:\Users\Nikola Vasic\source\repos\ServerSitePaging\ServerSitePaging.Data\obj\Debug\netstandard2.0\ServerSitePaging.Data.pdb
